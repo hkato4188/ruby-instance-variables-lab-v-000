@@ -1,7 +1,7 @@
 class Dog 
 
-  def name=(name)
-    @this_this_dogs_name = name
+  def name=(argument)
+    @this_this_dogs_name = argument
   end
   
   def name
